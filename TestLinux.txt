@@ -1,1 +1,2 @@
+This file has been updates as part of git stash demo
 this is to  test remote and local repository mapping
