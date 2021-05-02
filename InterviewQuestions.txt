@@ -1,0 +1,33 @@
+Hi Aish..
+
+This are interview Question for Git....
+
+*******************************************
+============================================
+
+Pushing from my Local Repo
+
+=============================================
+
+1) Explain about Git stages?
+2) What is the difference between working area and staging area?
+3) why do we use staging area? what is the use of staging area?
+4) What is the difference between git merge and git rebase?
+5) What is Git Cherry pick?
+Hi Aish..
+
+This are interview Question for Git....
+
+
+============================================
+
+Pushing from my Local Repo
+
+=============================================
+
+1) Explain about Git stages?
+2) What is the difference between working area and staging area?
+3) why do we use staging area? what is the use of staging area?
+4) What is the difference between git merge and git rebase?
+5) What is Git Cherry pick?
+
